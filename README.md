@@ -1,4 +1,4 @@
-# MyeloidResponseScore
+# 2020-JCI-MRS
 
 This repository stores the data and R codes used in our study, linked to the paper entitled "A Simple Signature Reveals the Myeloid Contexture and Predicts the Prognosis of Hepatocellular Carcinoma".
 
